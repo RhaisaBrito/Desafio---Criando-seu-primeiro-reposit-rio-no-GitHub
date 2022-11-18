@@ -1,2 +1,2 @@
-# Desafio---Criando-seu-primeiro-reposit-rio-no-GitHub
+# Desafio---Criando-seu-primeiro-repositório-no-GitHub
 Prática do curso de introdução o GitHub.
