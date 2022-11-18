@@ -15,6 +15,6 @@ git branch -d <nome-da-branch> = Excluir uma branch.
 git checkout <nome-da-branch> = Usado para trocar de uma branch para outra.Também pode ser usado para fazer o checkout de arquivos e commits.
 git status = Mostra todas as informações necessárias sobre a branch atual.
 git add <arquivo> = Usado para incluir as alterações de um ou vários arquivos em nosso próximo commit.
-git add -A = Adiciona todas as alterações ao mesmo tempo
+git add -A = Adiciona todas as alterações ao mesmo tempo.
 git commit -m "mensagem do commit" = Salva suas alterações no espaço de trabalho local.
 git push <repositório-remoto> <nome-da-branch> = Envia suas alterações ao servidor remoto, faz o upload dos seus commits no repositório remoto.
